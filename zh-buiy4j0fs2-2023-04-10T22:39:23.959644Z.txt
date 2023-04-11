@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"我在哪里可以得到Padlet的服务条款？"},{"detected_source_language":"EN","text":"你可以在这里查看Padlet的服务条款。"},{"detected_source_language":"EN","text":"<p>你可以<a href=\"https://legal.padlet.com/terms\">在这里</a>查看Padlet的<strong>服务条款</strong>。</p><p></p>"}]}

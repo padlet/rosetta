@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"你们是否接受银行转账？"},{"detected_source_language":"EN","text":"对于大于1000美元的订单，我们接受银行转账。有关如何进行银行转账的信息应该在你的发票上。"},{"detected_source_language":"EN","text":"<p><strong>对于大于1000美元的订单，我们接受银行转账。</strong>关于如何进行银行转账的信息应该在你的发票上。</p>"}]}

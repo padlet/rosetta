@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"銀行振込は可能ですか？"},{"detected_source_language":"EN","text":"1,000ドル以上のご注文の場合、銀行振込を承ります。銀行振込の方法に関する情報は、請求書に記載されています。"},{"detected_source_language":"EN","text":"<p><strong>1,000ドル以上のご注文の場合、銀行振込を承ります。</strong>銀行振込の方法に関する情報は、請求書に記載されています。</p>"}]}

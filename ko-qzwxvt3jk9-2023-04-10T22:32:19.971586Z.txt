@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"내 계정에서 몇 개의 팀을 만들 수 있나요?"},{"detected_source_language":"EN","text":"모든 네온, 골드, 플래티넘 회원은 계정당 하나의 팀을 만들 수 있습니다. 하지만 2개 이상의 팀에서 관리자, 메이커 또는 기여자로 활동할 수 있습니다."},{"detected_source_language":"EN","text":"<p>모든 네온, 골드, 플래티넘 회원은 계정당 <em>하나의</em> 팀을 만들 수 있습니다. 하지만 2개 이상의 팀에서 관리자, 메이커 또는 기여자로 활동할 수 있습니다.</p><p></p>"}]}

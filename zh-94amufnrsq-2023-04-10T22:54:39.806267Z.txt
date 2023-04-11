@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"电子邮件地址已被占用"},{"detected_source_language":"EN","text":"这意味着什么？该电子邮件地址是一个已注册的padlet账户。选择一个不同的电子邮件地址来创建一个新的帐户。"},{"detected_source_language":"EN","text":"<p>这意味着什么？该电子邮件地址是一个已注册的padlet账户。 </p><p>选择一个不同的电子邮件地址来创建一个新的帐户。 </p>"}]}

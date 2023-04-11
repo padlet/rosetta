@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"Padletの利用規約はどこで入手できますか？"},{"detected_source_language":"EN","text":"Padletの利用規約はこちらでご確認いただけます。"},{"detected_source_language":"EN","text":"<p>Padletの<strong>利用</strong>規約は<a href=\"https://legal.padlet.com/terms\">こちらで</a>ご確認いただけます。</p><p></p>"}]}

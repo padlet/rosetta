@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"Onde posso obter os Termos de Serviço do Padlet?"},{"detected_source_language":"EN","text":"Pode ver os Termos de Serviço do Padlet aqui."},{"detected_source_language":"EN","text":"<p>Pode ver os <strong>Termos de Serviço</strong> do Padlet <a href=\"https://legal.padlet.com/terms\">aqui</a>.</p><p></p>"}]}

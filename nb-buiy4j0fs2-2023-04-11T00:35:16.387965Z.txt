@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"Hvor finner jeg Padlets tjenestevilkår?"},{"detected_source_language":"EN","text":"Du kan se Padlets vilkår for bruk her."},{"detected_source_language":"EN","text":"<p>Du kan se Padlets <strong>vilkår for bruk</strong> <a href=\"https://legal.padlet.com/terms\">her.</a></p><p></p>"}]}

@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"Kust ma saan Padleti kasutustingimusi?"},{"detected_source_language":"EN","text":"Padleti kasutustingimusi saate vaadata siin."},{"detected_source_language":"EN","text":"<p>Padleti <strong>kasutustingimusi</strong> saate vaadata <a href=\"https://legal.padlet.com/terms\">siin</a>.</p><p></p>"}]}

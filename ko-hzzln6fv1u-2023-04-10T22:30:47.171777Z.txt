@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"Backpack 구독을 취소하려면 어떻게 하나요?"},{"detected_source_language":"EN","text":"조직을 삭제하려면 문의 양식을 이용해 주세요. 패드렛을 네온 계정으로 이전해야 하는 경우 메시지로 알려주세요!"},{"detected_source_language":"EN","text":"<p>조직을 삭제하려면 <a href=\"https://padlet.com/contact-us\" target=\"_blank\">문의 양식을</a> 이용해 주세요. 패드렛을 네온 계정으로 이전해야 하는 경우 메시지로 알려주세요!</p>"}]}

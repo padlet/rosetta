@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"我可以编辑Padlet发给我的发票吗？"},{"detected_source_language":"EN","text":"如果您想编辑由Padlet发送给您的发票，请联系我们。我们很乐意帮助您更新发票地址或添加任何其他必要的修改。"},{"detected_source_language":"EN","text":"<p>如果您想编辑由Padlet发送给您的发票，请<a href=\"https://padlet.com/contact-us\" target=\"_blank\">联系我们。</a></p><p>我们很乐意帮助您更新发票地址或添加任何其他必要的修改。</p>"}]}

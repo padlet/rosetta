@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"一个PADLET上可以有多少人发帖？"},{"detected_source_language":"EN","text":"无论你使用何种计划，你可以分享一个PADLE的用户数量没有限制。他们甚至可以在同一时间发布!如果你有多人一起工作，可以尝试网格或墙的形式..."},{"detected_source_language":"EN","text":"<p>无论你使用何种计划，你可以分享一个小册子的用户数量是没有限制的。他们甚至可以在同一时间发布!</p><div class=\"tip-callout\">如果你有多人同时在一个padlet中工作，请尝试网格或墙的格式。</div><p></p>"}]}

@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"유료 계정에 대한 결제 옵션은 무엇인가요?"},{"detected_source_language":"EN","text":"골드 또는 플래티넘 계정에서와 같이 1,000달러 미만을 구매할 때는 신용카드로만 결제할 수 있습니다. 이 경우 구매 주문서는 받지 않습니다."},{"detected_source_language":"EN","text":"<p>골드 또는 플래티넘 계정에서와 같이 1,000달러 미만을 구매할 때는 신용카드로만 결제할 수 있습니다. 이 경우 구매 주문서는 받지 않습니다.</p>"}]}

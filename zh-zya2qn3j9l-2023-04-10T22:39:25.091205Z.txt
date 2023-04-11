@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"对于付费账户，我有哪些付款方式？"},{"detected_source_language":"EN","text":"当以金卡或白金卡账户购买少于1000美元的商品时，你唯一的付款方式是使用信用卡。在这种情况下，我们不接受采购订单。"},{"detected_source_language":"EN","text":"<p>当以金卡或白金卡账户购买少于1000美元的商品时，你唯一的付款方式是使用信用卡。在这种情况下，我们不接受采购订单。</p>"}]}

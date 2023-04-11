@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"我如何取消我的背包订阅？"},{"detected_source_language":"EN","text":"要删除你的组织，请使用我们的联系表格。如果你需要我们把任何小册子转移到你的Neon帐户，请在留言中告诉我们!"},{"detected_source_language":"EN","text":"<p>要删除你的组织，请使用<a href=\"https://padlet.com/contact-us\" target=\"_blank\">我们的联系表格</a>。如果你需要我们把任何小册子转移到你的Neon帐户，请在留言中告诉我们!</p>"}]}

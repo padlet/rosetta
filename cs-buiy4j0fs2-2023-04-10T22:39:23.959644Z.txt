@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"Kde mohu získat podmínky služby Padlet?"},{"detected_source_language":"EN","text":"Podmínky služby Padlet si můžete prohlédnout zde."},{"detected_source_language":"EN","text":"<p><strong>Podmínky služby</strong> Padlet si můžete prohlédnout <a href=\"https://legal.padlet.com/terms\">zde</a>.</p><p></p>"}]}

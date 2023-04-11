@@ -1,0 +1,1 @@
+{"translations":[{"detected_source_language":"EN","text":"我可以在我的账户中创建多少个团队？"},{"detected_source_language":"EN","text":"所有Neon、Gold和Platinum会员每个账户可以创建一个团队。然而，你可以成为2个或更多团队的管理员、制作人或贡献者。"},{"detected_source_language":"EN","text":"<p>所有Neon、Gold和Platinum会员每个账户可以创建<em>一个</em>团队。然而，你可以成为2个或更多团队的管理员、制作人或贡献者。</p><p></p>"}]}
